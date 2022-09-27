@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTrainerApi", "AddTrainerApi\AddTrainerApi.csproj", "{59F6639E-1001-4C9C-A2B5-89517D4D7653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59F6639E-1001-4C9C-A2B5-89517D4D7653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F6639E-1001-4C9C-A2B5-89517D4D7653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F6639E-1001-4C9C-A2B5-89517D4D7653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F6639E-1001-4C9C-A2B5-89517D4D7653}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D335E1D7-7F2B-4541-920E-99BCA2395DA3}
+	EndGlobalSection
+EndGlobal
